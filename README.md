@@ -8,9 +8,9 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Grauwdy/TicketLifecycle)  
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Grauwdy/TrafficInspectioninVM)
-  - [Installing Active Directory in Azure]()
-  - [Configuring Active Directory in Azure]()
-  - [Understanding DNS in Azure]()
-  - [Understanding File Permissions in Azure]()
+  - [Installing Active Directory in Azure](https://github.com/Grauwdy/InstallingADinAZ)
+  - [Configuring Active Directory in Azure](https://github.com/Grauwdy/ConfigADinAZ)
+  - [Understanding DNS in Azure](https://github.com/Grauwdy/DNSinAZ)
+  - [Understanding File Permissions in Azure](https://github.com/Grauwdy/FilePermissionsinAZ)
 - <b>Python
   - 
