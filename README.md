@@ -7,7 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Grauwdy/postinstallconfig)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Grauwdy/TicketLifecycle)  
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Grauwdy/ADinAVM)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Grauwdy/TrafficInspectioninVM)
 
 - <b>Python
